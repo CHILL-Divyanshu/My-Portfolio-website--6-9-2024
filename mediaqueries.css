@@ -104,5 +104,17 @@
         justify-content: center;
     }
 
+    
+}
 
+@media screen and (max-width: 600px){
+    .wrapper {
+        width: 20px;
+        height: 20px;
+      }
+      
+    .infinite-loop-logo {
+        width: 20px;
+        height: 20px;
+    }
 }
