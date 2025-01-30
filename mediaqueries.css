@@ -109,12 +109,12 @@
 
 @media screen and (max-width: 600px){
     .wrapper {
-        width: 20px;
-        height: 20px;
+        width: 10em;
+        height: 10em;
       }
       
     .infinite-loop-logo {
-        width: 20px;
-        height: 20px;
+        width: 100px;
+        height: 100px;
     }
 }
